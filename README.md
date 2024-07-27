@@ -26,7 +26,7 @@ Here is the link 😁✅-> [Doker](https://docs.docker.com/)
 Clone the project
 
 ```bash
-  git clone https://github.com/Nathal97/Rice-eat.git
+  git clone https://github.com/Nathal97/Server-flask.git
 ```
 
 Go to the project directory
