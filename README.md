@@ -38,7 +38,7 @@ Go to the project directory
 Install dependencies
 
 ```bash
-  pip install flask // after python installed
+  pip install -r requirements.txt // after python installed
 ```
 
 Start the server
