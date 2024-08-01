@@ -56,3 +56,5 @@ Start your code
   git checkout Your_FirstName
 ```
 
+Test bdd, use this App.js for react-native expo
+
